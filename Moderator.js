@@ -16,7 +16,7 @@ const bot = new commando.Client({
 
 bot.on('message', function(message){
     if(message.content.includes('!')){
-        message.channel.send("my prefix is ```-```")
+        message.channel.send("my prefix is ```$```")
     }});
 bot.on('message', function(message){
     if(message.content == '-help'){
