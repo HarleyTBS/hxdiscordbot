@@ -1,4 +1,4 @@
-const TOKEN = "NTM2MjA3NDc4Nzc4NjI2MDc4.DyTV2A.Rl4M1w9X4-tLIUrx72HCxTaffrk"
+const TOKEN = "NTM2MjExNDEwMzg5MTcyMjI2.DyTc_Q.A7S9rzy8g9ubtwpb1SGIeDcUq-I"
 
 //Config
 //-----------------------
@@ -125,7 +125,7 @@ bot.on('message', function(message){
     }});
 
 
-    
+
 bot.on('message', function(message){
     if(message.content == '-rules'){
         message.channel.send({embed:{
@@ -140,7 +140,7 @@ bot.on('message', function(message){
     }
 });
 
-    
+
 
 
 
