@@ -1,4 +1,4 @@
-const TOKEN = "NTM2MjExNDEwMzg5MTcyMjI2.DyTc_Q.A7S9rzy8g9ubtwpb1SGIeDcUq-I"
+const TOKEN = "NTM2MjExNDEwMzg5MTcyMjI2.DyTpJg.IXBi__xmpEO6IZ0Q7--9qE7gF9s"
 
 //Config
 //-----------------------
